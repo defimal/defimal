@@ -1,9 +1,8 @@
 # what's up, I'm Defi 👋
 
-I'm a Computer Science student at the University of Nebraska–Lincoln with a strong focus on **data science, machine learning, and AI-driven systems**.  
-I enjoy working with data to uncover insights, build predictive models, and create intelligent applications that solve real-world problems — from **AI predictive maintenance** for vehicles to **secure, data-backed authentication systems**.  
-
-I’m passionate about combining **programming, mathematics, and statistical analysis** to deliver scalable and impactful data solutions.
+Computer Science student at the University of Nebraska–Lincoln passionate about data science and AI.
+For me, working with data is like playing basketball — spotting patterns, making smart moves, and creating impact.
+Currently building a predictive AI system for vehicle maintenance and a secure authentication platform.
 
 ---
 
