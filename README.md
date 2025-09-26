@@ -41,8 +41,8 @@ I’m passionate about combining **programming, mathematics, and statistical ana
 ---
 
 ## 📊 GitHub Stats
-![Defi's GitHub stats](https://github-readme-stats.vercel.app/api?username=defimaleji&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=defimaleji&layout=compact&theme=tokyonight)
+![Defi's GitHub stats](https://github-readme-stats.vercel.app/api?username=defimal&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=defimal&layout=compact&theme=tokyonight)
 
 ---
 
