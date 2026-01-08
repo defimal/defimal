@@ -20,13 +20,9 @@ Currently building a predictive AI system for vehicle maintenance and a secure a
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+
+
 
 ### 🗄️ Databases & Cloud
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
