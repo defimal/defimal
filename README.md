@@ -9,7 +9,7 @@ Currently building a predictive AI system for vehicle maintenance and a secure a
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/defi-maleji)  
 📧 **Email:** [dkapaba2@huskers.unl.edu](mailto:dkapaba2@huskers.unl.edu)  
-📱 **Phone:** +1 (531) 348-0530  
+
 
 ---
 
