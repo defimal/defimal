@@ -33,18 +33,8 @@ Currently building a predictive AI system for vehicle maintenance and a secure a
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-![Defi's GitHub stats](https://github-readme-stats.vercel.app/api?username=defimal&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=defimal&layout=compact&theme=tokyonight)
 
----
 
-## 🚀 Current Projects
-- 🔧 **AI Predictive Car Maintenance System** – Building an intelligent system to forecast vehicle issues before they occur.  
-- 🔒 **Secure Login System** – Flutter + Firebase project with password hashing, 2FA, and Google sign-in.  
-
----
 
 ⭐️ From [defimaleji](https://github.com/defimaleji)
